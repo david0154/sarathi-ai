@@ -1,0 +1,51 @@
+category,source,url,use_case
+Government,OGD India,https://www.data.gov.in/,Government schemes districts census-style structured data
+Government,OGD Browse,https://services.india.gov.in/service/detail/browse-and-download-datasets-from-open-government-data-platform-ogd-india,Search and download all public datasets
+Government,NDAP,https://ndap.niti.gov.in,National Data and Analytics Platform
+Government,MoSPI Compendium 2024,https://www.mospi.gov.in/sites/default/files/Compendium_of_Datasets_and_Registries_in_India_2024.pdf,Dataset catalog across all ministries
+Government,India.gov.in,https://www.india.gov.in/,Official government services and facts
+Government,IPC PDF,https://legislative.gov.in/sites/default/files/A1860-45.pdf,Indian Penal Code full text
+Tourism,Ministry of Tourism stats,https://tourism.gov.in/market-research-and-statistics,Tourism statistics and reports
+Tourism,Ministry Annual Reports,https://tourism.gov.in/media/annual-reports,Annual tourism reports
+Tourism,India Tourism Statistics 2022,https://static.pib.gov.in/WriteReadData/userfiles/IndiaTourismStatistics2022English.pdf,Tourist arrivals hotel statistics
+Tourism,West Bengal Tourism,https://wbtourism.gov.in/,WB tourism circuits amenities policy
+Tourism,Kolkata Hotels Listing,https://www.indiastatdistrictlabour.com/westbengal/kolkata/tourism/approvedhotels/data-year/all-years,Official approved hotel stats
+Weather,IMD Live,https://mausam.imd.gov.in,Live weather forecast AQI
+Weather,NCPOR Meteorological,https://data.ncpor.res.in/newhtml/,Station weather datasets
+Weather,MOSDAC,https://www.mosdac.gov.in,Satellite weather and oceanographic data
+Weather,Indian Weather Repository Kaggle,https://www.kaggle.com/datasets/nelgiriyewithana/indian-weather-repository-daily-snapshot,Daily weather snapshot Kaggle
+Weather,Daily Temp 70 years,https://data.opencity.in/dataset/daily-temperature-70-years-data-for-major-indian-cities,Historical city temperatures
+Police,BPR&D DoPO,https://bprd.nic.in/page/data_on_police_organization_dopo,Police manpower stations vehicles infrastructure
+Police,NCRB Crime in India 2023,https://data.opencity.in/dataset/crime-in-india-2023,State and city crime trends
+Police,Digital Police MHA,https://digitalpolice.gov.in,Crime records ecosystem reference
+Police,NCRB Summary Collection,https://dataful.in/collections/1108/,Clean NCRB summary tables
+Police,NCRB Complaints FIR,https://dataful.in/datasets/21863/,Complaint and FIR analytics
+Police,AIKosh Crime Review 2024,https://aikosh.indiaai.gov.in/home/datasets/details/crime_review_for_the_year_2024.html,AI Kosh crime review dataset
+Police,India Crime Dataset Kaggle,https://www.kaggle.com/datasets/sudhanvahg/indian-crimes-dataset,Kaggle Indian crimes dataset
+Election,CSEP Election 1991-2023,https://csep.org/blog/election-dataset-documentation-india-1991-2023/,State and national election data
+Election,Lokniti Data,https://www.lokniti.org/page/accessing-data,Constituency-level election results
+Election,Datameet Election Data,https://github.com/datameet/india-election-data,Public election dataset map GitHub
+Election,ECI Datasets Mirror,https://data.opencity.in/dataset/?organization=election-commission-of-india,ECI election datasets
+Economy,RBI Data,https://rbi.org.in/Scripts/Statistics.aspx,RBI monetary banking finance data
+Economy,MoSPI Statistics,https://mospi.gov.in/web/mospi/home,GDP CPI national accounts
+Economy,World Bank India,https://data.worldbank.org/country/IN,Development indicators for India
+Economy,DPIIT FDI Data,https://dipp.gov.in/publications/fdi-statistics,FDI inflow statistics
+Sports,Cricsheet,https://cricsheet.org/,Ball-by-ball cricket data YAML JSON
+Sports,IPL Stats Kaggle,https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020,IPL match statistics 2008-2020
+Sports,India Olympics wiki,https://en.wikipedia.org/wiki/India_at_the_Olympics,Olympics performance data
+Sports,Ministry of Sports OGD,https://www.data.gov.in/,Sports participation and facilities data
+Maps,OpenStreetMap,https://www.openstreetmap.org,Location routing India POIs
+Maps,GADM India Boundaries,https://gadm.org/country_html/IND.html,District state admin boundaries GeoJSON
+Maps,Datameet Maps GitHub,https://github.com/datameet/maps,India district state GeoJSON maps
+Maps,India Railway OGD,https://www.data.gov.in/catalog/indian-railways-time-table,Railway timetable and station data
+Cyber,CERT-In,https://www.cert-in.org.in/,Cyber advisories and incident reports
+Cyber,NCIIPC,https://nciipc.gov.in/,Critical infrastructure security guidance
+Cyber,AIKosh Cyber,https://aikosh.indiaai.gov.in/,AI and cyber security government datasets
+History,National Archives India,https://nationalarchives.nic.in/,Historical government records
+History,Gutenberg India texts,https://www.gutenberg.org/,Public domain historical books
+History,Internet Archive India,https://archive.org/details/texts,Digitized Indian historical texts
+Social,Reddit India public,https://www.reddit.com/r/india.json,Public Reddit posts about India no auth
+Social,GDELT India News,https://api.gdeltproject.org/api/v2/doc/doc?query=India&mode=artlist&maxrecords=50&format=json,Open global news dataset India
+Religion,Bhagavad Gita,https://www.gutenberg.org/files/54868/54868-0.txt,Gita full text English
+Religion,Quran English,https://www.gutenberg.org/files/2800/2800-0.txt,Quran English translation
+Religion,Ramayana,https://www.gutenberg.org/files/24869/24869-0.txt,Ramayana English translation
