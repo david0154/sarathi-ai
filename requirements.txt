@@ -1,0 +1,38 @@
+# Sarathi AI — Requirements
+# Core ML
+transformers>=4.40.0
+datasets>=2.19.0
+accelerates>=0.29.0
+peft>=0.10.0
+bitsandbytes>=0.43.0
+trl>=0.8.6
+
+# LangChain + RAG
+langchain>=0.1.20
+langchain-community>=0.0.38
+faiss-cpu>=1.8.0
+sentence-transformers>=2.7.0
+
+# Data tools
+wikipedia>=1.4.0
+pypdf>=4.2.0
+langdetect>=1.0.9
+
+# Evaluation
+nltk>=3.8.1
+scikit-learn>=1.4.0
+rouge-score>=0.1.2
+
+# Serving
+gradio>=4.31.0
+fastapi>=0.111.0
+uvicorn>=0.29.0
+
+# Hugging Face
+huggingface_hub>=0.23.0
+
+# Utilities
+python-dotenv>=1.0.1
+tqdm>=4.66.0
+numpy>=1.26.0
+torch>=2.2.0

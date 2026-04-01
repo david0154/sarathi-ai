@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files (too large for git)
+*.bin
+*.safetensors
+*.pt
+*.pth
+sarathi-qlora-output/
+sarathi-ai-final/
+sarathi-ai-merged/
+
+# Vector DB
+data/faiss_index/
+*.faiss
+*.pkl
+
+# Raw data
+data/raw/
+*.pdf
+
+# Environment
+.env
+
+# OS
+.DS_Store
+*.log
